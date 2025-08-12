@@ -8460,7 +8460,7 @@ U6��������?&#x1f;-ަ5���&#x1e;��(�#*8�$�.�E�
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">D:/TASK/JpetStore/Tenjin/JpetStore_Fish/JpetStore_Buying_Fish_Credentials.csv</stringProp>
+            <stringProp name="filename">JpetStore_Buying_Fish_Credentials.csv</stringProp>
             <boolProp name="ignoreFirstLine">true</boolProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
@@ -12402,3 +12402,4 @@ ctx.setTestLogicalAction(org.apache.jmeter.threads.JMeterContext.TestLogicalActi
     </hashTree>
   </hashTree>
 </jmeterTestPlan>
+
