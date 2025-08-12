@@ -10328,7 +10328,7 @@ U6��������?&#x1f;-ަ5���&#x1e;��(�#*8�$�.�E�
               <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
                 <stringProp name="delimiter">,</stringProp>
                 <stringProp name="fileEncoding"></stringProp>
-                <stringProp name="filename">JpetStore_Buying_Dogs_Credentials.csv </stringProp>
+                <stringProp name="filename">Dogs_Buying/JpetStore_Buying_Dogs_Credentials.csv </stringProp>
                 <boolProp name="ignoreFirstLine">true</boolProp>
                 <boolProp name="quotedData">false</boolProp>
                 <boolProp name="recycle">true</boolProp>
